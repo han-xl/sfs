@@ -1,0 +1,2 @@
+D:\code\family\family\Debug\family.exe
+D:\code\family\family\Debug\family.pdb
